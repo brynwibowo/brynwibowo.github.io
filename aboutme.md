@@ -1,5 +1,5 @@
 ---
 layout: page
-title: aboutme
+title: Hi! I'm bryn wibowo
+subtitle: just post my blog here
 ---
-## Hi! I'm **bryn wibowo**
